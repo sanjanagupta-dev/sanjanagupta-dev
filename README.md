@@ -27,8 +27,6 @@
 - 🔹 **MySQL Database Design Project**
 - 🔹 **Mini Web App (HTML/CSS/JS)**
 
-*(Links will be added after pinning repos)*
-
 ---
 
 ## 📊 GitHub Stats
