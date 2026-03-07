@@ -40,7 +40,7 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=tokyo-night" width="700"/>
@@ -52,7 +52,7 @@
 <img src="https://github.com/sanjanagupta-dev/sanjanagupta-dev/blob/output/github-contribution-grid-snake.svg" width="700"/>
 </p>
 
----
+--- -->
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjana-gupta-8663a12a4/
