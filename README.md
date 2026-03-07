@@ -65,7 +65,7 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjana-gupta-8663a12a4/
 - 📧 Email: guptaraani627@gmail.com
 
 ---
