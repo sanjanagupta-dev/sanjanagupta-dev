@@ -34,11 +34,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight" height="110"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanagupta-dev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
