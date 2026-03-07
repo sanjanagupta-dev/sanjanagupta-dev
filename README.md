@@ -36,6 +36,19 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanagupta-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=github)
+
+---
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🔗 Connect With Me
