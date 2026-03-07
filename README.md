@@ -45,6 +45,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sanjanagupta-dev/sanjanagupta-dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
