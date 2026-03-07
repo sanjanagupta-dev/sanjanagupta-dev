@@ -7,10 +7,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Java | Spring Boot | SQL  
-- 🌱 Building REST APIs and Scalable Applications  
-- 🎯 Goal: Become a professional software developer  
+🎓 Computer Science Student <br>
+💻 Java | Spring Boot | SQL <br>
+🌱 Building REST APIs and Scalable Applications <br>
+🎯 Goal: Become a professional software developer  
 
 ---
 
@@ -22,43 +22,54 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Student Management System (Java + JDBC)**
-- 🔹 **REST API using Spring Boot**
-- 🔹 **MySQL Database Design Project**
-- 🔹 **Mini Web App (HTML/CSS/JS)**
+🔹 **Student Management System (Java + JDBC)** <br>
+🔹 **REST API using Spring Boot** <br>
+🔹 **MySQL Database Design Project** <br>
+🔹 **Mini Web App (HTML/CSS/JS)** <br>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight" height="165"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanagupta-dev&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=github)
-
-## 🐍 Contribution Animation
-
-![Snake animation](https://github.com/sanjanagupta-dev/sanjanagupta-dev/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanagupta-dev&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+<h2 align="center">📈 Contribution Graph</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=tokyo-night" width="700"/>
+</p>
+
+<h2 align="center">🐍 Contribution Animation</h2>
+
+<p align="center">
+<img src="https://github.com/sanjanagupta-dev/sanjanagupta-dev/blob/output/github-contribution-grid-snake.svg" width="700"/>
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: *(add later)*
+- 💼 LinkedIn: 
 - 📧 Email: guptaraani627@gmail.com
 
 ---
 
-⭐ If you like my work, consider giving a star!
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
