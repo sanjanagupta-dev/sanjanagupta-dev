@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Aspiring Software Engineer | Java & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sanjanagupta-dev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -50,18 +50,18 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanagupta-dev&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: *(add later)*
-- 📧 Email: *(optional)*
+- 📧 Email: guptaraani627@gmail.com
 
 ---
 
