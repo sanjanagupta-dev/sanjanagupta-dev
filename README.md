@@ -7,10 +7,10 @@
 ---
 
 ## 👩‍💻 About Me
-  🎓 Computer Science Student <br>
-  💻 Java | Spring Boot | SQL <br>
-  🌱 Building REST APIs and Scalable Applications <br>
-  🎯 Goal: Become a professional software developer  
+🎓 Computer Science Student <br>
+💻 Java | Spring Boot | SQL <br>
+🌱 Building REST APIs and Scalable Applications <br>
+🎯 Goal: Become a professional software developer  
 
 ---
 
@@ -22,10 +22,10 @@
 ---
 
 ## 🚀 Projects
-  🔹 **Student Management System (Java + JDBC)** <br>
-  🔹 **REST API using Spring Boot** <br>
-  🔹 **MySQL Database Design Project** <br>
-  🔹 **Mini Web App (HTML/CSS/JS)** <br>
+🔹 **Student Management System (Java + JDBC)** <br>
+🔹 **REST API using Spring Boot** <br>
+🔹 **MySQL Database Design Project** <br>
+🔹 **Mini Web App (HTML/CSS/JS)** <br>
 
 ---
 
@@ -59,7 +59,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
