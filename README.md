@@ -56,14 +56,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=flat&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjana-gupta-8663a12a4/
 - 📧 Email: guptaraani627@gmail.com
