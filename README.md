@@ -6,22 +6,28 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+and+Precise+Coding&center=true&width=700&height=35&color=000000&font=Inter">
 </p>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👩‍💻 About Me
-🎓 Computer Science Student <br>
-💻 Core Skills: Java | Spring Boot | SQL <br>
-🌱 Building Full Stack and REST APIs Projects <br>
-🎯 Goal: Become a professional software developer  
 
----
+ 🎓 Computer Science Student <br> 
+ 💻 Core Skills: Java | Spring Boot | SQL <br> 
+ 🌱 Building Full Stack and REST APIs Projects <br> 
+ 🎯 Goal: Become a professional software developer  
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github" />
-</p>
+</td>
 
----
+<td width="50%" valign="top">
+
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github" />
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Projects
 🔹 **Student Management System (Java + JDBC)** <br>
@@ -55,10 +61,8 @@
 --- -->
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sanjana-gupta-8663a12a4/
-- 📧 Email: guptaraani627@gmail.com
-
----
+ 💼 LinkedIn: https://www.linkedin.com/in/sanjana-gupta-8663a12a4/ <br>
+ 📧 Email: guptaraani627@gmail.com
 
 <p align="center">
   ⭐ If you like my work, consider giving a star!
