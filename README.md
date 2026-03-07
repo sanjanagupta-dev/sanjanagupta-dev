@@ -1,24 +1,7 @@
-## Hi there 👋
-
-<!--
-**sanjanagupta-dev/sanjanagupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Sanjana Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | Java & Backend Developer</h3>
-
+<h3 align="center">Aspiring Software Engineer | Java Full Stack Developer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanagupta-dev&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+Code+and+System+Design&center=true&width=700&height=35&color=000000&font=Inter">
 </p>
 
 ---
@@ -26,7 +9,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 About Me
 - 🎓 Computer Science Student  
 - 💻 Java | Spring Boot | SQL  
-- 🌱 Learning Backend & REST APIs  
+- 🌱 Building REST APIs and Scalable Applications  
 - 🎯 Goal: Become a professional software developer  
 
 ---
@@ -49,14 +32,12 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight" />
-</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanagupta-dev&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanagupta-dev&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjanagupta-dev&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanagupta-dev&layout=compact&theme=tokyonight)
 ---
 
 ## 🔗 Connect With Me
