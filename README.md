@@ -43,9 +43,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=github)
 
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Animation
 
 ![Snake animation](https://github.com/sanjanagupta-dev/sanjanagupta-dev/blob/output/github-contribution-grid-snake.svg)
 
