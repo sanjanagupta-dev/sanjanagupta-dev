@@ -59,7 +59,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta-dev&theme=flat&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
