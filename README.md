@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sanjana Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | Java Full Stack Developer</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+Code+and+System+Design&center=true&width=700&height=35&color=000000&font=Inter">
+  <img src="banner.png" width="100%" />
+</p>
+<h1 align="center">Hi 👋, I'm Sanjana Gupta</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+and+Precise+Coding&center=true&width=700&height=35&color=000000&font=Inter">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 🎓 Computer Science Student <br>
-💻 Java | Spring Boot | SQL <br>
-🌱 Building REST APIs and Scalable Applications <br>
+💻 Core Skills: Java | Spring Boot | SQL <br>
+🌱 Building Full Stack and REST APIs Projects <br>
 🎯 Goal: Become a professional software developer  
 
 ---
