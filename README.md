@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sanjana Gupta</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+and+Precise+Coding&center=true&width=700&height=35&color=000000&font=Inter">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+About+Clean+and+Precise+Coding&center=true&width=700&height=35&font=Inter">
 </p>
 
 <table>
@@ -37,6 +37,7 @@
 
 ---
 
+<!--
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -46,7 +47,7 @@
 
 ---
 
-<!-- <h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta-dev&theme=tokyo-night" width="700"/>
