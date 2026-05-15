@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner1.png" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Sanjana Gupta</h1>
 <p align="center">
@@ -30,11 +30,8 @@
 </table>
 
 ## 🚀 Projects
-🔹 **Student Management System (Java + JDBC)** <br>
-🔹 **REST API using Spring Boot** <br>
-🔹 **MySQL Database Design Project** <br>
-🔹 **Mini Web App (HTML/CSS/JS)** <br>
-
+🔹 **Java Full Stack E-Commerce Shopping Platform** using <br>
+    React.js | Tailwind CSS | Spring Boot| Spring Security | MySQL | REST APIs | JWT
 ---
 
 <!--
